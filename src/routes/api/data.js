@@ -21,6 +21,7 @@ const relays = [
   "wss://relay.damus.io",
   "wss://nostr.openchain.fr",
   "wss://nostr.delo.software",
+  "wss://nostr.oxtr.dev",
   "wss://relay.minds.com/nostr/v1/ws"
 ];
 
